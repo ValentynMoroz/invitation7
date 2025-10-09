@@ -59,3 +59,26 @@ img {
     transform: scale(1.1);
   }
 }
+.clip-path-polygon {
+  clip-path: polygon(0 0, 100% 0, 50% 100%);
+}
+
+@keyframes clipUp {
+  0% {
+    clip-path: polygon(144% 5px, 103% -7%, 50% 49%, 0px -2%, 0px 2px);
+  }
+
+  100% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+}
+
+.clip-animate {
+  animation: clipUp 3s forwards; /* тривалість 1 секунда */
+}
+
+.depth-glow {
+  /* Ефект глибини */
+  text-shadow: 1px 1px 0 #222, 2px 2px 0 #222, 3px 3px 0 #222, 4px 4px 0 #222, 5px 5px 0 #222, 6px 6px 0 #222,
+    7px 7px 0 #222, /* Ефект світіння */ 0 0 8px #f7f3e8, 0 0 16px #f7f3e8, 0 0 24px #f7f3e8, 0 0 40px #f7f3e8;
+}

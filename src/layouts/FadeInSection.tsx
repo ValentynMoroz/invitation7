@@ -5,10 +5,10 @@ type Direction = "up" | "down" | "left" | "right";
 type FadeInProps = {
   children: ReactNode;
   direction?: Direction;
-  duration?: number; // в мілісекундах
+  duration?: string; // в мілісекундах
 };
 
-export default function FadeIn({ children, direction = "up", duration = 1000 }: FadeInProps) {
+export default function FadeIn({ children, direction = "up", duration = "1000" }: FadeInProps) {
   const ref = useRef<HTMLDivElement | null>(null);
   const [isVisible, setIsVisible] = useState(false);
 
@@ -43,11 +43,12 @@ export default function FadeIn({ children, direction = "up", duration = 1000 }: 
     left: "translate-x-12",
     right: "-translate-x-12",
   };
-
+  console.log(`${duration}ms`);
   return (
     <div
+      style={{ transitionDuration: `${duration}ms` }}
       ref={ref}
-      className={`transition-all ease-out transform duration-${duration} ${
+      className={`transition-all ease-out transform  ${
         isVisible ? "opacity-100 translate-x-0 translate-y-0" : `opacity-0 ${directionClasses[direction]}`
       }`}>
       {children}
