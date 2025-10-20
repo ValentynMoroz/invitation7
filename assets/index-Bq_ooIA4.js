@@ -89,12 +89,12 @@ Error generating stack: `+a.message+`
       M50,0\r
        C49,2 35,10 46,15\r
       C50,18 55,20 54,25\r
-    `,stroke:"url(#grad)",strokeWidth:"0.7",fill:"transparent"})]}),s.jsxs(C,{children:[" ",s.jsxs("div",{className:"flex justify-around mt-16 items-center",children:[s.jsxs("p",{className:"text-xl ml-10",children:[s.jsx("span",{className:"text-3xl mr-3",children:"17:00"}),"Бенкет"]}),s.jsx("img",{className:"w-28",src:"/invitation7/decorations3.png",alt:""})]})]}),s.jsxs("svg",{className:"absolute max-w-[425px] mt-[-16px]",viewBox:"0 0 100 250",preserveAspectRatio:"none",children:[s.jsx("defs",{children:s.jsxs("linearGradient",{id:"grad",x1:"0",y1:"0",x2:"0",y2:"1",children:[s.jsx("stop",{offset:"0%",stopColor:"#6E1425"}),s.jsx("stop",{offset:"100%",stopColor:"#6E1425"})]})}),s.jsx("path",{d:`\r
+    `,stroke:"url(#grad)",strokeWidth:"0.7",fill:"transparent"})]}),s.jsxs(C,{children:[" ",s.jsxs("div",{className:"flex justify-around mt-16 items-center",children:[s.jsxs("p",{className:"text-xl ml-16",children:[s.jsx("span",{className:"text-3xl mr-3",children:"17:00"}),"Бенкет"]}),s.jsx("img",{className:"w-28",src:"/invitation7/decorations3.png",alt:""})]})]}),s.jsxs("svg",{className:"absolute max-w-[425px] mt-[-16px]",viewBox:"0 0 100 250",preserveAspectRatio:"none",children:[s.jsx("defs",{children:s.jsxs("linearGradient",{id:"grad",x1:"0",y1:"0",x2:"0",y2:"1",children:[s.jsx("stop",{offset:"0%",stopColor:"#6E1425"}),s.jsx("stop",{offset:"100%",stopColor:"#6E1425"})]})}),s.jsx("path",{d:`\r
   \r
       M50,0\r
       C51,2 65,10 54,15\r
       C50,18 45,20 46,25\r
-    `,stroke:"url(#grad)",strokeWidth:"0.7",fill:"transparent"})]}),s.jsxs(C,{children:[" ",s.jsxs("div",{className:"flex relative  mt-16  items-center",children:[s.jsx("img",{className:"w-28 absolute left-2",src:"/invitation7/decorations2.png",alt:""}),s.jsxs("p",{className:"text-xl text-center  ml-auto mr-4 flex items-center gap-2",children:[s.jsx("span",{className:"text-3xl ",children:"23:00"}),"Завершення ",s.jsx("br",{})," вечора"]})]})]})]})}),s.jsxs("section",{className:"relative mx-auto max-w-[425px] bg-[#8B0000] text-[#f8f6ee] pt-10 text-center",children:[s.jsx("svg",{className:"absolute top-[-40px] left-0 w-full z-40",viewBox:"0 0 100 20",preserveAspectRatio:"none",children:s.jsx("path",{d:`M0,10\r
+    `,stroke:"url(#grad)",strokeWidth:"0.7",fill:"transparent"})]}),s.jsxs(C,{children:[" ",s.jsxs("div",{className:"flex relative  mt-20  items-center",children:[s.jsx("img",{className:"w-28 absolute left-2",src:"/invitation7/decorations2.png",alt:""}),s.jsxs("p",{className:"text-xl text-center  ml-auto mr-3 flex items-center gap-2",children:[s.jsx("span",{className:"text-3xl ml-3",children:"23:00"}),"Завершення вечора"]})]})]})]})}),s.jsxs("section",{className:"relative mx-auto max-w-[425px] bg-[#8B0000] text-[#f8f6ee] pt-20 text-center",children:[s.jsx("svg",{className:"absolute top-[-40px] left-0 w-full z-40",viewBox:"0 0 100 20",preserveAspectRatio:"none",children:s.jsx("path",{d:`M0,10\r
        C5,7 7,2 10,10\r
        C15,7 18,3 20,8\r
        C21,5 23,2 24,3\r
@@ -107,7 +107,7 @@ Error generating stack: `+a.message+`
        C88,6 90,5 92,10\r
        C93,6 95,8 100,10\r
 \r
-       L100,20 L0,20 Z`,fill:"#f8f6ee",transform:"scale(1,-1) translate(0,-20)"})}),s.jsxs("div",{children:[s.jsxs(C,{children:[" ",s.jsx("h2",{className:"text-5xl font-QuintessentialRegular",children:"Dress Kod"}),s.jsx("p",{children:"Ми будемо вдячні якщо ви дотримаєтеся кольрової гами"}),s.jsxs("ul",{className:"flex  justify-center gap-2 mt-4",children:[s.jsx("li",{className:"w-12 h-12 rounded-full bg-[#DCD6CC] "}),s.jsx("li",{className:"w-12 h-12 rounded-full bg-[#0B3F33] "})]})]}),s.jsxs("div",{className:"relative mt-10",children:[s.jsx("svg",{className:"absolute top-[-40px] left-0 w-full z-40",viewBox:"0 0 100 20",preserveAspectRatio:"none",children:s.jsx("path",{d:`M0,10\r
+       L100,20 L0,20 Z`,fill:"#f8f6ee",transform:"scale(1,-1) translate(0,-20)"})}),s.jsxs("div",{children:[s.jsxs(C,{children:[" ",s.jsx("h2",{className:"text-5xl font-QuintessentialRegular",children:"Dress Kod"}),s.jsx("p",{className:"w-[90%] mx-auto",children:"Ми будемо вдячні якщо ви дотримаєтеся кольрової гами"}),s.jsxs("ul",{className:"flex  justify-center gap-2 mt-4",children:[s.jsx("li",{className:"w-12 h-12 rounded-full bg-[#DCD6CC] "}),s.jsx("li",{className:"w-12 h-12 rounded-full bg-[#0B3F33] "})]})]}),s.jsxs("div",{className:"relative mt-10",children:[s.jsx("svg",{className:"absolute top-[-40px] left-0 w-full z-40",viewBox:"0 0 100 20",preserveAspectRatio:"none",children:s.jsx("path",{d:`M0,10\r
        C5,7 7,2 10,10\r
        C15,7 18,3 20,8\r
        C21,5 23,2 24,3\r
